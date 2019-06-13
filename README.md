@@ -1,27 +1,6 @@
-# FullstackTypescript
+# Full Stack in Typescript
+The repository  is going to establish a framework of an application in Typescript on both frontend and backend.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ 1. Frontend is setup in [Angular](https://angular.io/guide/setup-local)
+ 1. The references of backend are [Server-Side TypeScript with Node](https://itnext.io/server-side-typescript-with-node-c5cef1584684) by Kenneth Reilly and [Adding a Node + Typescript Backend to Your Angular App](https://medium.com/@stephenfluin/adding-a-node-typescript-backend-to-your-angular-app-29b0e9925ff) by Stephen Fluin
+ 1. Angular start [README](./AngularReadme.md)
